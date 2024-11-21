@@ -69,6 +69,13 @@ To enhance the security of inventory and order tracking.
 c)	Mobile App Development:
 A mobile app for customers to place orders and track inventory on the go.
 
-7.	Conclusion
+8.	Conclusion
 The RFID-Based Inventory Management System offers an efficient solution for managing inventory across both online and offline sales channels. While currently divided into two separate systems, the planned Firebase integration will enable seamless real-time updates. The system ensures accurate stock tracking, real-time updates, and a smooth customer experience, with potential for future expansions like blockchain and mobile app support.
+
+#Requirements
+On browser, seach http://localhost/php-inventory-management-system/
+
+Login Credentials
+Id : admin
+password : admin
 
